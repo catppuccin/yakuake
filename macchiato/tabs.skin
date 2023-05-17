@@ -7,9 +7,9 @@ Icon=/icon.png
 [Tabs]
 x=22
 y=0
-red=202
-green=211
-blue=245
+red=73
+green=77
+blue=100
 separator_image=/tabs/separator.png
 selected_background=/tabs/selected_back.png
 selected_left_corner=/tabs/selected_left.png

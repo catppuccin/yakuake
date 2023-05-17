@@ -21,12 +21,12 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="18.852711"
-     inkscape:cx="5.2777555"
-     inkscape:cy="18.140627"
-     inkscape:window-width="1920"
-     inkscape:window-height="969"
+     inkscape:cx="10.290297"
+     inkscape:cy="18.167148"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
-     inkscape:window-y="1117"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg229" />
   <defs
@@ -84,7 +84,7 @@
          fill="url(#0)"
          d="m553.72 583.12h10v26h-10z"
          id="path202"
-         style="fill:#282a36;fill-opacity:1" />
+         style="fill:#181926;fill-opacity:1" />
       <rect
          width="30"
          height="30"
@@ -94,24 +94,25 @@
          transform="matrix(0 1-1 0 0 0)"
          fill="url(#1)"
          id="rect204"
-         style="fill:#282a36;fill-opacity:1" />
+         style="fill:#181926;fill-opacity:1" />
       <path
          fill="url(#3)"
          d="m573.72 583.12h10v30h-10z"
          id="path206"
-         style="fill:#282a36;fill-opacity:1" />
+         style="fill:#181926;fill-opacity:1" />
     </g>
     <path
        transform="matrix(0 1-1 0 0 0)"
        fill="#bd93f9"
        d="m583.12-583.72h2v30h-2z"
-       id="path210" />
+       id="path210"
+       style="fill:#b7bdf8;fill-opacity:1" />
     <g
        fill="#000"
        id="g213"
        transform="">
       <path
-         style="fill:#ff79c6;stroke-width:1.30882;image-rendering:auto;fill-opacity:1"
+         style="fill:#f5a97f;stroke-width:1.30882;image-rendering:auto;fill-opacity:1"
          class="ColorScheme-Text"
          d="m 559.55822,588.95823 c 0,0 -1.30883,0 -1.30883,1.30882 v 13.08824 c 0,1.30883 1.30883,1.30883 1.30883,1.30883 h 3.92647 v 1.30882 c 0,1.30882 1.30883,1.30882 1.30883,1.30882 h 7.85294 c 0,0 1.30883,0 1.30883,-1.30882 v -1.30882 h 3.92647 c 0,0 1.30883,0 1.30883,-1.30883 v -13.08824 c 0,-1.30882 -1.30883,-1.30882 -1.30883,-1.30882 z m 1.30882,2.61764 h 15.7059 v 10.4706 h -15.7059 z"
          id="path7" />

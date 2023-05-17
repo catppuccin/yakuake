@@ -22,43 +22,52 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="28.233333"
-     inkscape:cx="11.883117"
-     inkscape:cy="14.98229"
-     inkscape:window-width="1920"
-     inkscape:window-height="969"
+     inkscape:cx="3.7898466"
+     inkscape:cy="15"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
-     inkscape:window-y="1117"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g12" />
   <g
      transform="translate(-549.72-579.12)"
      id="g12">
     <circle
-       style="fill:#f8f8f2"
+       style="fill:#363a4f;fill-opacity:1"
        cx="564.63147"
        cy="594.20148"
-       r="8.4151554" />
+       r="8.4151554"
+       id="circle4" />
     <circle
        cx="6"
        cy="11"
        r="1"
        fill="#6272a4"
-       transform="translate(553.7202,583.12)" />
+       transform="translate(553.7202,583.12)"
+       id="circle6"
+       style="fill:#8aadf4;fill-opacity:1" />
     <circle
        cx="11"
        cy="11"
        r="1"
        fill="#6272a4"
-       transform="translate(553.7202,583.12)" />
+       transform="translate(553.7202,583.12)"
+       id="circle8"
+       style="fill:#8aadf4;fill-opacity:1" />
     <circle
        cx="16"
        cy="11"
        r="1"
        fill="#6272a4"
-       transform="translate(553.7202,583.12)" />
+       transform="translate(553.7202,583.12)"
+       id="circle10"
+       style="fill:#8aadf4;fill-opacity:1" />
     <path
        d="m 10.99,2 a 9,9 0 0 0 -8.9902,9 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-9 9,9 0 0 0 -0.0098,0 z m 0.0098,1 a 8,8 0 0 1 8,8 8,8 0 0 1 -8,8 8,8 0 0 1 -8,-8 8,8 0 0 1 8,-8 z"
        fill="#6272a4"
-       transform="translate(553.7202,583.12)" />
+       transform="translate(553.7202,583.12)"
+       id="path12"
+       style="fill:#8aadf4;fill-opacity:1" />
   </g>
 </svg>
