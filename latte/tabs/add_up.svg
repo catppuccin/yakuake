@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="5.5523953"
-     inkscape:cx="-18.37045"
-     inkscape:cy="26.024804"
+     inkscape:cx="-59.613911"
+     inkscape:cy="26.204907"
      inkscape:window-width="1600"
      inkscape:window-height="836"
      inkscape:window-x="0"
@@ -41,19 +41,18 @@
        color="#000"
        d="m553.72 583.12h22v22h-22z"
        id="path2"
-       style="fill:#7287fd;fill-opacity:1" />
+       style="fill:#dce0e8;fill-opacity:1" />
     <g
        fill="#f8f8f2"
        id="g8">
       <path
-         transform="matrix(0 1-1 0 0 0)"
-         d="m594.12-571.72h1v15h-1z"
+         d="m 571.72,593.87 v 1.5 h -15 v -1.5 z"
          id="path4"
-         style="fill:#eff1f5;fill-opacity:1" />
+         style="fill:#4c4f69;fill-opacity:1;stroke-width:1.22474" />
       <path
-         d="m563.72 587.12h1v15h-1z"
+         d="m 563.47,587.12 h 1.5 v 15 h -1.5 z"
          id="path6"
-         style="fill:#eff1f5;fill-opacity:1" />
+         style="fill:#4c4f69;fill-opacity:1;stroke-width:1.22474" />
     </g>
   </g>
 </svg>

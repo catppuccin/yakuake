@@ -5,9 +5,9 @@ Email=kkyoungmeyer@gmail.com
 Icon=/icon.png
 
 [Border]
-red=180
-green=190
-blue=250
+red=17
+green=17
+blue=27
 width=2
 
 [Text]

@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="31.409094"
-     inkscape:cx="-6.7814755"
-     inkscape:cy="11.031837"
+     inkscape:zoom="256"
+     inkscape:cx="-0.28515625"
+     inkscape:cy="21.876953"
      inkscape:window-width="1600"
      inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="g4" />
   <g
      transform="translate(0-1030.36)"
      id="g4">
@@ -40,6 +40,10 @@
        fill="#bd93f9"
        d="m0 1030.36h1v22h-1z"
        id="path2"
-       style="fill:#babbf1;fill-opacity:1" />
+       style="fill:#23273a;fill-opacity:1" />
+    <path
+       id="rect1670"
+       style="fill:#ef9f76;fill-opacity:1"
+       d="m 0,1051.36 h 0.9999999 v 1 H 0 Z" />
   </g>
 </svg>
