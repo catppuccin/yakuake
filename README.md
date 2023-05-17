@@ -37,10 +37,12 @@
 ## Usage
 
 1. Clone this repository locally
+2. Browse to where the repository is located
+2. Run the `make-archives.sh` script from within the repository 
 2. Open Yakuake's appearance settings
-  1. Click `Menu`
-  2. Click `Configure Yakuake...`
-  3. Click `Appearance`
+    1. Click `Menu`
+    2. Click `Configure Yakuake...`
+    3. Click `Appearance`
 3. Select `Install Skin...` and browse to where you cloned Catppuccin
 4. Select the `.tar.gz` file for the flavor you'd like
 5. Select the new skin from the skin list.
