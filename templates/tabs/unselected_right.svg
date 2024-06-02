@@ -43,12 +43,12 @@
          stop-color="#282a36"
          id="stop2"
          offset="0"
-         style="stop-color:#1e2030;stop-opacity:1;" />
+         style="stop-color:#{{ mantle.hex }};stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#282a36"
          id="stop4"
-         style="stop-color:#1e2030;stop-opacity:1;" />
+         style="stop-color:#{{ mantle.hex }};stop-opacity:1;" />
     </linearGradient>
   </defs>
   <path
