@@ -1,5 +1,12 @@
+---
+whiskers:
+  version: "2.3.0"
+  matrix:
+    - flavor
+  filename: "{{ flavor.identifier }}/tabs.skin"
+---
 [Description]
-Skin=Catppuccin Frappé
+Skin=Catppuccin {{ flavor.name }}
 Author=kyoungmeyer
 Email=kkyoungmeyer@gmail.com
 Icon=/icon.png
@@ -7,9 +14,9 @@ Icon=/icon.png
 [Tabs]
 x=22
 y=0
-red=198
-green=208
-blue=245
+red={{ text.rgb.r }}
+green={{ text.rgb.g }}
+blue={{ text.rgb.b }}
 separator_image=/tabs/separator.png
 selected_background=/tabs/selected_back.png
 selected_left_corner=/tabs/selected_left.png

@@ -1,21 +1,28 @@
+---
+whiskers:
+  version: "2.3.0"
+  matrix:
+    - flavor
+  filename: "{{ flavor.identifier }}/title.skin"
+---
 [Description]
-Skin=Catppuccin Frappé
+Skin=Catppuccin {{ flavor.name }}
 Author=kyoungmeyer
 Email=kkyoungmeyer@gmail.com
 Icon=/icon.png
 
 [Border]
-red=35
-green=38
-blue=52
+red={{ crust.rgb.r }}
+green={{ crust.rgb.g }}
+blue={{ crust.rgb.b }}
 width=2
 
 [Text]
 x=34
 y=20
-red=198
-green=208
-blue=245
+red={{ text.rgb.r }}
+green={{ text.rgb.g }}
+blue={{ text.rgb.b }}
 text=Drop-Down Terminal
 
 [Background]
