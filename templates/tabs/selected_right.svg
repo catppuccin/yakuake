@@ -40,10 +40,10 @@
        fill="#bd93f9"
        d="m0 1030.36h1v22h-1z"
        id="path2"
-       style="fill:#303446;fill-opacity:1" />
+       style="fill:#{{ base.hex }};fill-opacity:1" />
     <path
        id="rect1670"
-       style="fill:#ef9f76;fill-opacity:1"
+       style="fill:#{{ peach.hex }};fill-opacity:1"
        d="m 0,1051.36 h 0.9999999 v 1 H 0 Z" />
   </g>
 </svg>
